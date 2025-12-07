@@ -9,7 +9,7 @@ function doGet() {
 //funcion para crear la estructura de carpetas
 function crearEstructuraMensual(mes, año) {
   try {
-    const carpetaRaiz = DriveApp.getFolderById("1ZuJIPetQwIuvGY6uDsqWJH1JOBVfzxks");
+    const carpetaRaiz = DriveApp.getFolderById("TU_CARPETA_AQUI");
 
     //crear la carpeta mes
     const nombreCarpetaMes = `${mes}`;
