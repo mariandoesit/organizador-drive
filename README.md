@@ -6,12 +6,13 @@ Aplicación web simple para crear estructura de carpetas mensuales en Google Dri
 ## ✧ Funcionalidad ✧
 
 Crea la siguiente estructura dentro de una carpeta padre:
-
+```
 [Mes]/
   ├── Expensas/
   ├── Alquiler/
   ├── Servicios/
   └── Impuestos/
+```
 
 
 ## ✧ Instalación ✧
